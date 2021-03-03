@@ -1,5 +1,5 @@
-Goals 2 Maret 2021
+Goals 3 Maret 2021
 
-1. Progmob Relative and Linear Layout
-2. Laravel Praktikum
-3. Semangat pagi
+1. Laravel Praktikum
+2. Belajar Grid Layout ada di youtube
+3. 
