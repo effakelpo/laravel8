@@ -1,5 +1,5 @@
-Goals 3 Maret 2021
+Goals 7 Maret 2021
 
-1. Laravel Praktikum
-2. Belajar Grid Layout ada di youtube
-3. 
+1. ADS
+2. IMS Abantecart
+3. IoT Suar
