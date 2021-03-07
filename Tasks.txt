@@ -1,5 +1,4 @@
 Goals 7 Maret 2021
 
-1. ADS
+1. IoT Suar
 2. IMS Abantecart
-3. IoT Suar
