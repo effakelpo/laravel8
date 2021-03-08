@@ -1,0 +1,18 @@
+Page must create
+
+1. Login and Register (Sudah)
+2. Home Customer (Sudah)
+3. Dashboard Admin (Sudah)
+4. CRUD Produk
+5. CRUD Courier
+6. CRUD Category
+7. CRUD Product Image
+8. CRUD Discount
+9. Halaman Cart
+10. Halaman Checkout
+11. Halaman Upload Bukti Bayar
+12. Tampilan Verifikasi Pesanan
+13. Tampilan Pembatalan Pesanan
+14. Halaman Review Product
+15. Halaman Notifikasi Admin
+16. Halaman Laporan
