@@ -16,3 +16,10 @@ Page must create
 14. Halaman Review Product
 15. Halaman Notifikasi Admin
 16. Halaman Laporan
+
+* Perubahan Design Prognet
+- Hilangin header login
+- Dashboard hilang
+- Login register sama
+- Register profile image
+- CRUD User

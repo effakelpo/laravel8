@@ -1,12 +1,24 @@
 Goals 7 Maret 2021
 
 1. Buat integrasi IMS
-* Integrasi SEO
+* Integrasi SEO (Sudah)
 - Menggunakan URL yang benar, dengan fitur SEO URL
 - Merapikan nama" produk, agar mudah di search, dan deskripsi produk
-------------------------------------------------------------------
+-------------------------------------
+* Integrasi Payment Paypal (Sudah)
+-------------------------------------
 * Integrasi Internet Marketing berbasis sosmed
+- Sudah buat akun facebook
+-------------------------------------
 * Integrasi dengan perusahaan shipping
-* Integrasi dengan layanan broadcasting
+- Sudah install free shipping esktensi
+-------------------------------------
+* Integrasi dengan layanan broadcasting email
+- Mau coba emailnya
+
 
 2. Belajar intent android
+
+3. Perubahan Design Prognet
+- Hilangin header login
+- 
