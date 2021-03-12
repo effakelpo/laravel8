@@ -1,4 +1,9 @@
 Goals 7 Maret 2021
 
 1. Buat integrasi IMS
+* Integrasi SEO
+* Integrasi Internet Marketing berbasis sosmed
+* Integrasi dengan perusahaan shipping
+* Integrasi dengan layanan broadcasting
+
 2. Belajar intent android
