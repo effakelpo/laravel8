@@ -1,3 +1,4 @@
 Goals 7 Maret 2021
 
-1. Lanjut Praktikum Doang ini
+1. Buat integrasi IMS
+2. Belajar intent android
