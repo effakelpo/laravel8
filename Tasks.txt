@@ -19,6 +19,3 @@ Goals 7 Maret 2021
 
 2. Belajar intent android
 
-3. Perubahan Design Prognet
-- Hilangin header login
-- 
