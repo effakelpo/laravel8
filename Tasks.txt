@@ -1,21 +1,12 @@
-Goals 7 Maret 2021
+All Tasks
 
-1. Buat integrasi IMS
-* Integrasi SEO (Sudah)
-- Menggunakan URL yang benar, dengan fitur SEO URL
-- Merapikan nama" produk, agar mudah di search, dan deskripsi produk
--------------------------------------
-* Integrasi Payment Paypal (Sudah)
--------------------------------------
-* Integrasi Internet Marketing berbasis sosmed
-- Sudah buat akun facebook
--------------------------------------
-* Integrasi dengan perusahaan shipping
-- Sudah install free shipping esktensi
--------------------------------------
-* Integrasi dengan layanan broadcasting email
-- Mau coba emailnya
+1. Analisis reconstruction DFD (Saturday, 20 March 2021)
+2. IoT sensor (Tuesday, 23 March 2021)
+3. AI Big Tasks and Title
 
+Goals 16 Maret 2021
 
-2. Belajar intent android
+1. Progress Prognet
+2. Intent android
+
 
