@@ -18,8 +18,9 @@ Page must create
 16. Halaman Laporan
 
 * Perubahan Design Prognet
-- Hilangin header login
-- Dashboard hilang
+- Hilangin header login (Sudah)
+- Dashboard hilang 
 - Login register sama
 - Register profile image
 - CRUD User
+- Buat Logo
