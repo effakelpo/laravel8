@@ -19,8 +19,10 @@ Page must create
 
 * Perubahan Design Prognet
 - Hilangin header login (Sudah)
-- Dashboard hilang 
-- Login register sama
-- Register profile image
+- Dashboard hilang (Sudah)
+- Login register sama (Sudah)
+- Register profile image (Sudah)
 - CRUD User
+  Produk (Sudah)
+  Courier (Sudah)
 - Buat Logo

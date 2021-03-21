@@ -1,7 +1,7 @@
 All Tasks
 
 1. Analisis reconstruction DFD (Saturday, 20 March 2021)
-2. IoT sensor (Tuesday, 23 March 2021)
+2. IoT sensor (Tuesday, 21 March 2021)
 3. Progmob
    - Buat recycle view (example film, binatang, tumbuhan) intinya beda dari tutorial
    - Bikin kelompok 4 orang (2 minggu lagi) mengumpulkan rencana project
