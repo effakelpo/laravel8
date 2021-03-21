@@ -18,11 +18,5 @@ Page must create
 16. Halaman Laporan
 
 * Perubahan Design Prognet
-- Hilangin header login (Sudah)
-- Dashboard hilang (Sudah)
-- Login register sama (Sudah)
-- Register profile image (Sudah)
-- CRUD User
-  Produk (Sudah)
-  Courier (Sudah)
-- Buat Logo
+- Buat Logo (Progress)
+- Page yang belum"
