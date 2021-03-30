@@ -1,15 +1,24 @@
 All Tasks
 
 1. Analisis reconstruction DFD (Saturday, 20 March 2021)
-2. IoT sensor (Tuesday, 21 March 2021)
-3. Progmob
+2. Progmob
    - Buat recycle view (example film, binatang, tumbuhan) intinya beda dari tutorial
    - Bikin kelompok 4 orang (2 minggu lagi) mengumpulkan rencana project
-4. IMS
-   - Tugas menjadi seorang reseller hosting, dan cek keuntungannya 
-Goals 16 Maret 2021
+3. IMS
+   - Tugas menjadi seorang reseller hosting, dan cek keuntungannya
+4. IOT
+   - Buat lampu LED di tinkercad
+   - Usahakan buat yang menarik 
+
+Goals 27 Maret 2021
 
 1. Progress Prognet
 2. Intent android
+
+
+
+
+
+
 
 

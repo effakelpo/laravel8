@@ -1,0 +1,10 @@
+Langkah menjadi Reseller hosting :
+1. Membuat akun niagahoster
+2. Membeli hosting dan domain
+3. Mendaftar sebagai niagahoster partner
+4. Install wordpress untuk halaman berjualan
+5. Setting harga dan paket yang dijual kepada customer
+
+Panduan Menggunakan niagahoster partner
+1. Login melalui member area niagahoster
+2. Klik mana menu partner, menuju halaman 
