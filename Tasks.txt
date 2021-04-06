@@ -1,21 +1,20 @@
 All Tasks
 
-1. Analisis reconstruction DFD (Saturday, 20 March 2021)
-2. Progmob
-   - Buat recycle view (example film, binatang, tumbuhan) intinya beda dari tutorial
-   - Bikin kelompok 4 orang (2 minggu lagi) mengumpulkan rencana project
-3. IMS
+1. Analisis dan Desain
+   - Lanjut DFD Sub Sistem
+2. Progmob (Deadline 7 April )
+   - Ngumpul laporan
+3. IMS (Deadline 10 April)
    - Tugas menjadi seorang reseller hosting, dan cek keuntungannya
 4. IOT
-   - Buat lampu LED di tinkercad
-   - Usahakan buat yang menarik 
+   - Sudah ada di grup line
+   - Belajar 7 Segment 
 5. Uzumaki Bayu
    - Udah ada di grup sama rama dan didi
 
 Goals 27 Maret 2021
 
-1. Progress Prognet
-2. Intent android
+1. 
 
 
 
