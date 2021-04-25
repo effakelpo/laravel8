@@ -1,20 +1,14 @@
 All Tasks
 
-1. Analisis dan Desain
-   - Lanjut DFD Sub Sistem
-2. Progmob (Deadline 7 April )
-   - Ngumpul laporan
-3. IMS (Deadline 10 April)
-   - Tugas menjadi seorang reseller hosting, dan cek keuntungannya
-4. IOT
-   - Sudah ada di grup line
-   - Belajar 7 Segment 
-5. Uzumaki Bayu
-   - Udah ada di grup sama rama dan didi
-
-Goals 27 Maret 2021
-
-1. 
+1. Analisis dan Desain (Deadline 25 April)
+   - Lanjut Buat DFD sampe terkecil + SOP Krama
+2. Progmob (Deadline 26 April )
+   - Tugas membuat aplikasi dengan fragment
+     kirim email (JS6-MD7-NIM)
+3. IMS (Deadline 25 April)
+   - Eksplore 1 stanar EDI untuk kasus tertentu
+4. IOT (Deadline 26 April)
+   - Membuat beberapa sensor 
 
 
 
