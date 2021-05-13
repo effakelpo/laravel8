@@ -2,13 +2,19 @@ All Tasks
 
 1. Analisis dan Desain (Deadline 25 April)
    - Lanjut Buat DFD sampe terkecil + SOP Krama
-2. Progmob (Deadline 26 April )
-   - Tugas membuat aplikasi dengan fragment
-     kirim email (JS6-MD7-NIM)
+2. Progmob
+   - Lanjutin TUBES FIX
 3. IMS (Deadline 25 April)
-   - Eksplore 1 stanar EDI untuk kasus tertentu
+   - Topik bebas, tentang ide integrasi kelompok ber-4 (Pustaka 5 tahun terakhir
+())
+
 4. IOT (Deadline 26 April)
-   - Membuat beberapa sensor 
+   - Membuat beberapa sensor
+5. Pak Uzumaki
+   - Tugas Kelompok Transformasi Digital ke Perubahan Organisasi
+
+6. Buk Putri tanggal 13 Mei
+   - Oase
 
 
 
